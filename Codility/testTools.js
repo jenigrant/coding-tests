@@ -31,7 +31,7 @@ function range(min, max, step) {
 }
 
 /**
- * Generate a psudo-random number
+ * Generate a psuedo-random number
  * @param {integer} min 
  * @param {integer} max 
  * @returns Number - a positive integer between (min) and (max)
